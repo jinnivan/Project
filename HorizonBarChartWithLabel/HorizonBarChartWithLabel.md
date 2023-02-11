@@ -22,7 +22,7 @@ Inspired by Horizontal Bar Chart, the bullet chart displays multiple measures in
 ---
 ## Selection 
 
-```Selection of a single data point can use as a cross filtering with other visuals. For cleaning the selection values, click at the data point again to clear the filter or by turn on “Clear filters on background click”, Users can click at the background to clear the filtering. =```
+```Selection of a single data point can use as a cross filtering with other visuals. For cleaning the selection values, click at the data point again to clear the filter or by turn on “Clear filters on background click”, Users can click at the background to clear the filtering.```
 
 ---
 ## Setting of The Bullet Chart 
@@ -35,22 +35,22 @@ Inspired by Horizontal Bar Chart, the bullet chart displays multiple measures in
     * **Back Bars Color:** Change color of Back Bar 
     * **Opacity:** Change Opacity of the visual 
     * **Category Text Color:** Change color of Category text 
-    ![Alt text](assets/2.png)
+![Alt text](assets/2.png)
 3. **Bar Label**
     * **Outer Text Color:** Change color outsite Front Bar 
     * **Inner Text Color:** Change color inside Front Bar
-    ![Alt text](assets/3.png)
+![Alt text](assets/3.png)
 4. **Bar Height**
     * **Min Height:** Adjust the space between bars. 
     * **Bar Height (0 = Auto):** Adjust the bar height 
-    ![Alt text](assets/4.png)
-    ![Alt text](assets/5.png)
+![Alt text](assets/4.png)
+![Alt text](assets/5.png)
 5. **Second Label**
     * **Highlight:** Change background color of the second label text 
     * **Text Color:** Change color of the second label text 
     * **Align Right:** Move the second label text to align at the very right of the visual 
-    ![Alt text](assets/6.png)
-    ![Alt text](assets/7.png)
+![Alt text](assets/6.png)
+![Alt text](assets/7.png)
 
 ---
 ## Development Workflow
