@@ -11,7 +11,7 @@ Inspired by _Horizontal Bar Chart_, the bullet chart displays multiple measures 
 > See reference also [Horizontal bar chart at Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381230)
 
 
-## The bullet chart has 4 fields: Category, Back Bar Values, Front Bar Values and Second Label Values 
+## The bullet chart has 4 fields:
 
 ![Alt text](assets/1.png)
 
