@@ -5,7 +5,7 @@ The bullet chart displays multiple measures in a single visual
 
 ## Overview
 
-Inspired by Horizontal Bar Chart, the bullet chart displays multiple measures in a single visual. The custom visual is designed to present the significant information in a single visual and to easily conveyed the insight. It can render single or multiple values in a series and show comparison values, and different targets. The second label can be used to show the significant information related to the other values to delivered an important details. 
+Inspired by **Horizontal Bar Chart**, the bullet chart displays multiple measures in a single visual. The custom visual is designed to present the significant information in a single visual and to easily conveyed the insight. It can render single or multiple values in a series and show comparison values, and different targets. The second label can be used to show the significant information related to the other values to delivered an important details. 
 
 
 > See reference also [Horizontal bar chart at Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381230)
