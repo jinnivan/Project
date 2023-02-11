@@ -23,7 +23,7 @@ Inspired by Horizontal Bar Chart, the bullet chart displays multiple measures in
 
 ## Selection 
 
-Selection of a single data point can use as a cross filtering with other visuals. For cleaning the selection values, click at the data point again to clear the filter or by turn on “Clear filters on background click”, Users can click at the background to clear the filtering.
+Selection of a single data point can use as a cross filtering with other visuals. For cleaning the selection values, click at the data point again to clear the filter or by turn on **“Clear filters on background click”**, Users can click at the background to clear the filtering.
 
 
 ## Setting of The Bullet Chart 
