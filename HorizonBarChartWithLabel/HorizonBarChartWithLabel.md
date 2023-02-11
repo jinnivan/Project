@@ -1,4 +1,4 @@
-# Horizontal bar chart
+# Horizontal bullet bar chart
 
 The bullet chart displays multiple measures in a single visual
 
